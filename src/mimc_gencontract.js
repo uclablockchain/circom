@@ -109,5 +109,5 @@ module.exports.abi = [
     }
 ];
 
-module.exports.createCode = createCode;
+module.exports = createCode;
 
